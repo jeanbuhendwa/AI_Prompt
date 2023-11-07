@@ -1,27 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## AI Prompt App
+
+AI Prompt is a web application that allows users to create and share AI prompts. Users can sign in using Google Authentication and then create a prompt by entering a description, and Tag. Users can also search for other AI prompts using keywords, usernames, or tags.
+
+### Features:
+
+- Create and share AI prompts
+- Search for other AI prompts
+- Copy AI prompts
+- Sign in using Google Authentication
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Before you get started, ensure you have the following:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- A code editor such as Visual Studio Code or Sublime Text.
+- Node.js and npm installed on your machine.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repository to your local machine:
 
-## Deploy on Vercel
+   ```bash
+   git clone https://github.com/jeanbuhendwa/wtech-shop.git
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Change into the project directory:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   cd wtech-shop
+   ```
+
+3. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+
+   ```bash
+   npm start
+   ```
+
+The project will be running locally at [http://localhost:3000](http://localhost:3000).
