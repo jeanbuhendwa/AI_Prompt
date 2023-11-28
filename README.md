@@ -1,4 +1,3 @@
-
 ## AI Prompt App
 
 AI Prompt is a web application that allows users to create and share AI prompts. Users can sign in using Google Authentication and then create a prompt by entering a description, and Tag. Users can also search for other AI prompts using keywords, usernames, or tags.
